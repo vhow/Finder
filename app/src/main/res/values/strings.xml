@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="about">About</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="app_name">File Finder</string>
+
+    <string name="back">Back</string>
+
+    <string name="cancel">Cancel</string>
+
+    <string name="communicate">Communicate</string>
+
+    <string name="copy">Copy</string>
+    <string name="copy_to">Copy to</string>
+
+    <string name="create">Create</string>
+    <string name="create_new_folder">New folder</string>
+
+    <string name="delete">Delete</string>
+    <string name="delete_failed">Delete failed</string>
+    <string name="delete_promot">Delete?</string>
+
+    <string name="device">Device</string>
+
+    <string name="do_not_display_hidden_file">Don\'t display hidden files.</string>
+
+    <string name="feedback">Feedback</string>
+
+    <string name="file">File</string>
+
+    <string name="folder">Folder</string>
+
+    <string name="hidden_file">Hidden file</string>
+
+    <string name="info">Info</string>
+
+    <string name="lastModifiedTime">Last modified time</string>
+
+    <string name="move">Move</string>
+    <string name="move_to">Move to</string>
+
+    <string name="name">Name</string>
+
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+
+    <string name="no_email_app">There is no email App installed.</string>
+    <string name="no_tip_this_time">No tip in an hour</string>
+
+    <string name="ok">OK</string>
+
+    <string name="open">Open</string>
+    <string name="open_folder">Open folder</string>
+
+    <string name="path">Path</string>
+
+    <string name="phone_storage">Phone storage</string>
+
+    <string name="press_again_to_exit">Press again to exit</string>
+
+    <string name="processing">Processing…</string>
+
+    <string name="rename">Rename</string>
+
+    <string name="sdcard">SD Card</string>
+
+    <string name="search">Search</string>
+
+    <string name="select_folder">Select folder</string>
+
+    <string name="settings">Settings</string>
+
+    <string name="share">Share</string>
+
+    <string name="show_hidden_file">Display hidden files.</string>
+
+    <string name="size">size</string>
+
+    <string name="sort">Sort</string>
+    <string name="sort_by_name">Sort by name</string>
+    <string name="sort_by_size">Sort by size</string>
+    <string name="sort_by_time">Sort by time</string>
+
+    <string name="type">Type</string>
+
+    <string name="unable_to_open_this_file">Unable to open this file.</string>
+    <string name="unable_to_share_this_file">Unable to share this file.</string>
+
+    <string name="version">Version</string>
+
+    <string name="x_files">%1$d files</string>
+
+    <string name="cannot_work_without_permission">Can not work without this permission.</string>
+    <string name="send_email">Send email</string>
+    <string name="tools">Tools</string>
+    <string name="installed_apps">Installed App</string>
+    <string name="extract_apk">Extract APK</string>
+    <string name="disk_usage">Total: %1$s, Free: %2$s</string>
+    <string name="showSysApp">Show System Apps</string>
+    <string name="hideSysApp">Hide System Apps</string>
+</resources>

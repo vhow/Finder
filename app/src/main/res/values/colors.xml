@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#212121</color>
+    <color name="colorPrimaryDark">#111111</color>
+    <color name="colorAccent">#00796B</color>
+    <color name="iconLight">#CCC</color>
+    <color name="iconActionLight">#FFF</color>
+    <color name="iconDark">#616161</color>
+    <color name="tr_half">#66000000</color>
+    <color name="divider">#8fb3af</color>
+    <color name="teal">#009688</color>
+    <color name="amber">#FFC107</color>
+    <color name="lime">#CDDC39</color>
+    <color name="purple">#9C27B0</color>
+    <color name="swipeBg">#EEE</color>
+    <color name="light_blue">#03A9F4</color>
+    <color name="light_green">#8BC34A</color>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--
+    <gradient
+        android:centerColor="@color/colorAccent"
+        android:endColor="@color/colorAccent"
+        android:startColor="@color/colorAccent" />
+        -->
+
+    <solid android:color="@color/divider" />
+    <size android:height="1px" />
+</shape>

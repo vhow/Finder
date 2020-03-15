@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="about">关于</string>
+
+    <string name="action_settings">设置</string>
+
+    <string name="app_name">文件快搜</string>
+
+    <string name="back">返回</string>
+
+    <string name="cancel">取消</string>
+
+    <string name="communicate">交流</string>
+
+    <string name="copy">复制</string>
+    <string name="copy_to">复制到</string>
+
+    <string name="create">创建</string>
+    <string name="create_new_folder">新建文件夹</string>
+
+    <string name="delete">删除</string>
+    <string name="delete_promot">删除？</string>
+
+    <string name="device">设备</string>
+
+    <string name="do_not_display_hidden_file">不显示隐藏文件</string>
+
+    <string name="feedback">反馈</string>
+
+    <string name="send_email">发邮件</string>
+
+    <string name="file">文件</string>
+
+    <string name="folder">文件夹</string>
+
+    <string name="hidden_file">隐藏文件</string>
+
+    <string name="info">信息</string>
+
+    <string name="lastModifiedTime">修改时间</string>
+
+    <string name="move">移动</string>
+    <string name="move_to">移动到</string>
+
+    <string name="name">名称</string>
+
+    <string name="navigation_drawer_close">关抽屉</string>
+    <string name="navigation_drawer_open">开抽屉</string>
+
+    <string name="no_email_app">没有邮件App</string>
+    <string name="no_tip_this_time">一小时内不再提示</string>
+
+    <string name="ok">好的</string>
+
+    <string name="open">打开</string>
+
+    <string name="path">路径</string>
+
+    <string name="phone_storage">手机存储</string>
+
+    <string name="press_again_to_exit">再按一次离开</string>
+
+    <string name="processing">处理中…</string>
+
+    <string name="rename">重命名</string>
+
+    <string name="sdcard">移动存储卡</string>
+
+    <string name="search">搜索</string>
+
+    <string name="select_folder">选择文件夹</string>
+
+    <string name="settings">设置</string>
+
+    <string name="share">分享</string>
+
+    <string name="show_hidden_file">显示隐藏文件</string>
+
+    <string name="size">大小</string>
+
+    <string name="sort">排序</string>
+    <string name="sort_by_name">按名称排序</string>
+    <string name="sort_by_size">按大小排序</string>
+    <string name="sort_by_time">按时间排序</string>
+
+    <string name="type">类型</string>
+
+    <string name="unable_to_open_this_file">没有能打开这个文件的App</string>
+    <string name="unable_to_share_this_file">无法分享这个文件</string>
+
+    <string name="version">版本</string>
+
+    <string name="x_files">%d 个子文件</string>
+    <string name="open_folder">打开文件夹</string>
+    <string name="cannot_work_without_permission">未获文件访问权限，无法工作</string>
+    <string name="tools">工具</string>
+    <string name="installed_apps">已安装应用</string>
+    <string name="extract_apk">提取APK</string>
+    <string name="delete_failed">删除失败</string>
+    <string name="disk_usage">总容量: %1$s， 剩余: %2$s</string>
+    <string name="showSysApp">显示系统应用</string>
+    <string name="hideSysApp">隐藏系统应用</string>
+</resources>

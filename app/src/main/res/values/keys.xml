@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pref_show_hidden_file" translatable="false">pref_show_hidden_file</string>
+    <string name="pref_key_version" translatable="false">pref_key_version</string>
+</resources>
