@@ -2,11 +2,11 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.gmail.dailyefforts.filemanager.search.SearchResultFragment">
+    tools:context="io.github.vhow.finder.search.SearchResultFragment">
 
     <include layout="@layout/view_empty" />
 
-    <android.support.v4.widget.SwipeRefreshLayout
+    <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
         android:id="@+id/swipeRefreshLayout"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
@@ -18,5 +18,5 @@
             android:cacheColorHint="@android:color/transparent"
             android:fastScrollEnabled="true"
             android:scrollbars="vertical" />
-    </android.support.v4.widget.SwipeRefreshLayout>
+    </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
 </RelativeLayout>
